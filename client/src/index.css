@@ -76,7 +76,7 @@ body {
 }
 
 .gif-bg {
-  background-image: url('./public/images/ezgif.com-gif-maker (1).gif');
+  background-image: url('/images/bggif.gif');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
