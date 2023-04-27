@@ -28,7 +28,7 @@ const Navbar = () => {
       <ul className="text-white md:flex list-none flex-row justify-between items-center flex-initial">
         <a href="https://www.linkedin.com/in/ernesti-sario-010b6a214/" target="_blank" rel="noopener noreferrer">
           <li className="py-2 px-7 mx-4 rounded-full cursor-pointer font-semibold hover:bg-[#000000]">
-            My Profile
+            Top G
           </li>
         </a>
       </ul>
